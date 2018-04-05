@@ -7,4 +7,4 @@
    
  [GIF](https://acdaly.github.io/60-212/p5/gif) A looping animation
  
- [Surround Sounds](https://www.arianadaly.com/programming-1/2016/12/22/sound-cubes) A memory and sound visualizer made in Unity. Code can be seen [here](https://acdaly.github.io/60-212/soundCubes)
+ [Surround Sounds](https://www.arianadaly.com/programming-1/2016/12/22/sound-cubes) A memory and sound visualizer made in Unity. Code can be seen [here](/soundCubes)
